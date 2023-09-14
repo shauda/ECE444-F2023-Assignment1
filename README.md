@@ -14,4 +14,9 @@
 ## Activity 4 Screenshots
 ![Activity 4 Screenshot](https://github.com/shauda/ECE444-F2023-Assignment1/assets/66545123/954eff97-23d9-467f-892f-2edb74607dc5)
 
+## Activity 5 Screenshots
+### rebase branch: c1 - created file abc.py, c2 - added content to abc.py
+### develop branch: c3 - created file xyz.py, c4 - added content to xyz.py
+![image](https://github.com/shauda/ECE444-F2023-Assignment1/assets/66545123/456386b9-e852-4aa2-87cc-0d15b03e168a)
+![image](https://github.com/shauda/ECE444-F2023-Assignment1/assets/66545123/bcb19601-35e6-4f62-8979-0b58af32c2e4)
 
